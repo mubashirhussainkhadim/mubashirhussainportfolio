@@ -13,7 +13,7 @@ export const blogData = [
         description: 'What is a Smart Contract? Smart Contracts 📝 are simple programs stored on a blockchain network.You can say it like an agreement between two people in the form of computer code. ',
         date: 'june 16, 2022',
         image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1fC94NpVLmPEEY64bk-Dat-2tQoBLzI6mDsHt82NaITN5C7yuNfgN5fG6HIeXm6X3U5vKwX8OoB0mOsAw6xT3EXosqXV73mFB0FgP2oZ2G2y8YH2wpOxAZ7cLIzGcElLOQkgZmN8vuNzL2FWg2BKxcw4st-pGgI9OUPX82y5-JKtDkSk-8jqHb5Lc/s651/Solidity.png',
-        url: 'https://hackzism.blogspot.com/2020/06/check-weather-from-terminal-using-wttrin.html'
+        url: 'https://blockchainscientist.blogspot.com/2022/06/build-your-first-smart-contract.html'
     },
     // {
     //     id: 3,
